@@ -38,10 +38,6 @@ object ApiDepend {
     get() = { substringBeforeLast(":") }
 }
 
-fun Project.dependApiAccount() {
-  ApiDepend.account.dependApiOnly(this)
-}
-
 fun Project.dependApiMain() {
   ApiDepend.main.dependApiOnly(this)
 }

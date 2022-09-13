@@ -22,13 +22,13 @@ object Config {
     return when (project.name) {
       "module_app" -> {
         if (project.gradle.startParameter.taskNames.any { it.contains("Release") }) {
-          "com.ndhzs.wanandroid"
+          "team.redrock.kisara"
         } else {
           // debug 状态下使用 debug 的包名，方便测试
-          "com.ndhzs.wanandroid.debug"
+          "team.redrock.kisara.debug"
         }
       }
-      else -> "com.ndhzs.wanandroid.${project.name}"
+      else -> "team.redrock.kisara.${project.name}"
     }
   }
 }

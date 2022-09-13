@@ -24,14 +24,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/build_logic" />
             <option value="$PROJECT_DIR$/build_logic/convention" />
-            <option value="$PROJECT_DIR$/lib_account" />
-            <option value="$PROJECT_DIR$/lib_account/api_account" />
             <option value="$PROJECT_DIR$/lib_base" />
             <option value="$PROJECT_DIR$/lib_config" />
             <option value="$PROJECT_DIR$/lib_debug" />
             <option value="$PROJECT_DIR$/lib_utils" />
             <option value="$PROJECT_DIR$/module_app" />
-            <option value="$PROJECT_DIR$/module_login" />
             <option value="$PROJECT_DIR$/module_main" />
             <option value="$PROJECT_DIR$/module_main/api_main" />
             <option value="$PROJECT_DIR$/module_test" />

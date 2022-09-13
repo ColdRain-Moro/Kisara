@@ -1,2 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string name="main_login">登录</string>
+    <string name="welcome_using_kisara">欢迎使用Kisara</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="verify_code">验证码</string>
+    <string name="submit">Submit</string>
+    <string name="verifycode">VerifyCode</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
 </resources>

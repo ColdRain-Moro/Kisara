@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="config_TextAppearance.Kisara.Title" parent="TextAppearance.Material3.DisplaySmall">
+        <item name="android:textColor">#112C57</item>
+    </style>
+
+    <style name="config_TextAppearance.Kisara.SubTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">#9915315B</item>
+    </style>
+
+    <style name="config_CircleStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
